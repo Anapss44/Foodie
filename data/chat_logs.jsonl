@@ -1,0 +1,3 @@
+{"messages": [{"role": "user", "content": "How many calories in a slice of pepperoni pizza?"}, {"role": "assistant", "content": "A typical slice of pepperoni pizza has about 285-350 calories depending on size and toppings."}]}
+{"messages": [{"role": "user", "content": "Suggest a healthy breakfast for weight loss."}, {"role": "assistant", "content": "Try a bowl of Greek yogurt with berries and a sprinkle of oats, or an omelette with spinach and mushrooms."}]}
+{"prompt": "What's a quick vegetarian dinner?", "response": "Stir-fry vegetables with tofu, served over brown rice or quinoa, flavored with soy sauce and sesame oil."}
