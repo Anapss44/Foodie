@@ -11,7 +11,7 @@ This project now includes a simple Node.js backend for:
    ```bash
    npm install
    ```
-2. Start the server:
+2. Start the server
    ```bash
    npm start
    ```
