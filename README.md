@@ -1,4 +1,4 @@
-# Zumattuu Foodie App
+# Foodie App
 
 This project now includes a simple Node.js backend for:
 - item availability checks
